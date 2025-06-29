@@ -1,9 +1,8 @@
-# SE4020 - Assignment 02 - VisionOS App
+
 
 
 # Project Name - SweatSync VisionOS App
-# Student Id - IT21234484
-# Student Name - Jayasinghe P.T.
+
 
 #### 01. Brief Description of Project - 
 SweatSyncV2Vision is an immersive workout-tracking experience designed for Apple Vision Pro. It extends traditional workout planning with a 3D, spatial interface, showing progress bars, workout lists, and real-time rep tracking. Users can interact with floating 3D bars to simulate repetitions and visualize their progress through an immersive environment built using RealityKit and SwiftUI.
